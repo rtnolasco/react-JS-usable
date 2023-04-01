@@ -772,7 +772,8 @@ c35 3 106 7 158 9 115 5 182 11 269 21 36 4 73 6 82 5 9 -1 45 3 80 9 35 6
 			</h1>
 			<h3 className="home__subtitle">Frontend Developer</h3>
 			<p className="home__description">
-				building interactive and visual design principles on websites and web applications
+				building interactive and visual design principles on websites and web
+				applications
 			</p>
 			<a href="#contact" className="button button--flex">
 				Tap me
