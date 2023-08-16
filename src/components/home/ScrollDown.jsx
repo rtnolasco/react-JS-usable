@@ -10,26 +10,26 @@ const ScrollDown = () => {
 				<svg
 					width="32px"
 					height="32px"
-					class="home__scroll-mouse"
+					className="home__scroll-mouse"
 					viewBox="0 0 247 390"
 					version="1.1"
 					xmlns="http://www.w3.org/2000/svg"
 					xmlnsXlink="http://www.w3.org/1999/xlink"
 					style={{
-						fillRle: 'evenodd',
+						fillRule: 'evenodd',
 						clipRule: 'evenodd',
 						strokeLinecap: 'round',
 						strokeLinejoin: 'round',
-						strokeMiterlimit: '1.5',
+						strokeMiterlimit: '2.5',
 					}}
 				>
 					<path
-						class="wheel"
+						className="wheel"
 						d="M123.359,79.775l0,72.843"
 						style={{
 							fill: 'none',
 							stroke: 'var(--title-color)',
-							strokeWdth: '20px',
+							strokeWidth: '20px',
 						}}
 					></path>
 					<path
