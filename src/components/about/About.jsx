@@ -18,12 +18,10 @@ const About = () => {
 					<p className="about__description">
 						I'm a frontend developer skilled in React,
 						Node.js, Express, and API integration.
-						Proficient in building dynamic interfaces,
-						integrating RESTful and GraphQL APIs, and
-						collaborating with backend teams. Responsive
-						design-focused, versed in Git, and adept at
-						problem-solving, I'm committed to producing
-						top-notch code for engaging web applications.
+						Responsive design-focused, versed in Git, and
+						adept at problem-solving, I'm committed to
+						producing top-notch code for engaging web
+						applications.
 					</p>
 					<a
 						download=""
