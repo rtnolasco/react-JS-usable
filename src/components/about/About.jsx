@@ -16,7 +16,21 @@ const About = () => {
 				<div className="about__data">
 					<Info />
 					<p className="about__description">
-						Test Description
+						I am a skilled frontend developer with expertise
+						in React, Node.js, Express, and API integration.
+						Proficient in building dynamic user interfaces
+						using React and incorporating state management
+						tools for navigation a strong grasp of
+						asynchronous operations, ensuring smooth API
+						integration through RESTful and GraphQL
+						endpoints with proficiency in Node.js and
+						Express with a keen eye for responsive design,
+						creating applications that deliver a consistent
+						experience across devices. Using in Git for
+						version control and adept at problem-solving,
+						Continuously learning and staying updated with
+						the latest trends, producing high-quality code
+						for robust and engaging web applications.
 					</p>
 					<a
 						download=""
