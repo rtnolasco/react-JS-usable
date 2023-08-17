@@ -46,26 +46,31 @@ const Services = () => {
 								Application Development
 							</h3>
 							<p className="services__modal-description">
-								Providing quality work to clients and
-								businesses
+								Projects is a testament to my
+								problem-solving skills, attention to detail,
+								and dedication to creating robust and
+								innovative solutions.
 							</p>
 							<ul className="services__modal-services grid">
 								<li className="services__modal-service">
 									<i className="uil uil-check-circle services__modal-icon"></i>
 									<p className="services__modal-info">
-										develop user interface
+										Create a full-fledged e-commerce website
+										and payment integration.
 									</p>
 								</li>
 								<li className="services__modal-service">
 									<i className="uil uil-check-circle services__modal-icon"></i>
 									<p className="services__modal-info">
-										develop user interface
+										Develop a customer portal app that
+										allows users to generates reports.
 									</p>
 								</li>
 								<li className="services__modal-service">
 									<i className="uil uil-check-circle services__modal-icon"></i>
 									<p className="services__modal-info">
-										develop user interface
+										Create a customer portal for streaming
+										app
 									</p>
 								</li>
 							</ul>
@@ -103,26 +108,29 @@ const Services = () => {
 								UX/UI Design
 							</h3>
 							<p className="services__modal-description">
-								Providing quality work to clients and
-								businesses
+								Conceptualization to pixel-perfect
+								execution, each project reflects my
+								commitment to user-centric design,
+								thoughtful interactions, and visual
+								storytelling.
 							</p>
 							<ul className="services__modal-services grid">
 								<li className="services__modal-service">
 									<i className="uil uil-check-circle services__modal-icon"></i>
 									<p className="services__modal-info">
-										develop user interface
+										E-commerce Website Design <br />
 									</p>
 								</li>
 								<li className="services__modal-service">
 									<i className="uil uil-check-circle services__modal-icon"></i>
 									<p className="services__modal-info">
-										develop user interface
+										Mobile App Onboarding Design
 									</p>
 								</li>
 								<li className="services__modal-service">
 									<i className="uil uil-check-circle services__modal-icon"></i>
 									<p className="services__modal-info">
-										develop user interface
+										Portfolio Website Design
 									</p>
 								</li>
 							</ul>
@@ -160,26 +168,41 @@ const Services = () => {
 								API Integration
 							</h3>
 							<p className="services__modal-description">
-								Providing quality work to clients and
-								businesses
+								Real-time data retrieval to interactive
+								features, each project exemplifies my
+								ability to harness the power of APIs to
+								enhance user experiences and deliver
+								valuable functionalities
 							</p>
 							<ul className="services__modal-services grid">
 								<li className="services__modal-service">
 									<i className="uil uil-check-circle services__modal-icon"></i>
 									<p className="services__modal-info">
-										develop user interface
+										Database / API and Integration
 									</p>
 								</li>
 								<li className="services__modal-service">
 									<i className="uil uil-check-circle services__modal-icon"></i>
 									<p className="services__modal-info">
-										develop user interface
+										Google API integration
 									</p>
 								</li>
 								<li className="services__modal-service">
 									<i className="uil uil-check-circle services__modal-icon"></i>
 									<p className="services__modal-info">
-										develop user interface
+										Content Management System (CMS)
+									</p>
+								</li>
+								<li className="services__modal-service">
+									<i className="uil uil-check-circle services__modal-icon"></i>
+									<p className="services__modal-info">
+										Employee Management Dashboard
+									</p>
+								</li>
+								<li className="services__modal-service">
+									<i className="uil uil-check-circle services__modal-icon"></i>
+									<p className="services__modal-info">
+										Client Records System
 									</p>
 								</li>
 							</ul>
